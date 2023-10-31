@@ -7,11 +7,22 @@
 
 > Projeto para praticar os conceitos de ponteiro e estrutura de dados em C
 
+## Intruções para rodar o projeto
+1. Descompactar o arquivo .zip
+2. Entrar na pasta descompactada e executar os seguintes comandos:
+
+```sh
+gcc -c filmes.c filmes.h
+```
+```sh
+gcc -o main main.c filmes.o
+```
+
+
 ## Author
 
-👤 **Igor Martins**
+👤 **Igor Martins & Jullian de Brito**
 
-* Twitter: [@igormap](https://twitter.com/igormap)
 * Github: [@igormap](https://github.com/igormap)
 * LinkedIn: [@igormap](https://linkedin.com/in/igormap)
 
